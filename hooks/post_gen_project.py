@@ -28,6 +28,8 @@ packages_to_install += basic
 pip_only_packages = [
     "awscli",
     "python-dotenv",
+    "ydf",
+    "dtreeviz"
 ]
 
 # Use the selected documentation package specified in the config,
